@@ -1,7 +1,7 @@
 # Unix Shell Multiplier
 For when one reverse shell listener is not enough.
 
-Unix Shell Multiplier connects to a netcat reverse shell and creates multiple disowned netcat reverse shell listeners. 
+Unix Shell Multiplier connects to a netcat bind shell and creates multiple disowned netcat bind shell listeners. 
 
 Use this tool when blue team is manually killing processes by ID.
 
